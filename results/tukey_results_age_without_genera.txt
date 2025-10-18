@@ -1,0 +1,9 @@
+Tukey HSD results for all age groups, ignoring genera:
+     Multiple Comparison of Means - Tukey HSD, FWER=0.05
+=============================================================
+   group1      group2   meandiff p-adj  lower   upper  reject
+-------------------------------------------------------------
+     Modern Pleistocene  -1.9506   0.0 -2.1745 -1.7267   True
+     Modern    Pliocene  -0.4142   0.0 -0.6268 -0.2016   True
+Pleistocene    Pliocene   1.5364   0.0  1.3457  1.7271   True
+-------------------------------------------------------------
