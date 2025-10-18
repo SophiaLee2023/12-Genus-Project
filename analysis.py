@@ -37,7 +37,7 @@ genera = ['astarte',
           'spisula',
           'striarca']
 
-# Q1.5: post-hoc Tukey HSD test on genera across age groups
+# Q2: post-hoc Tukey HSD test on genera across age groups
 for genus in genera:
     print(f'Tukey HSD results for {genus}:')
     print(run_tukey(data[data['genus'] == genus]), '\n')
